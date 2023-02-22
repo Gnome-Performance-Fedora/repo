@@ -1,0 +1,6 @@
+[gnome-performance]
+name=GNOME Performance Fedora Repository
+baseurl=https://gnome-performance-fedora.github.io/repo/f$releasever/packages
+enabled=1
+gpgcheck=1
+gpgkey=https://gnome-performance-fedora.github.io/repo/pgp-key.public
